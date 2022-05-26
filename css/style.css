@@ -6,6 +6,7 @@ body {
 }
 
 h1 {
+    background-color: rgb(157, 218, 189);
     text-align: center;
     font-size: 45px;
     font-weight: 600;
@@ -33,7 +34,7 @@ img {
 
 ul,
 ol {
-    background-color: bisque;
+    background-color: rgb(178, 210, 235);
 }
 
 .recipe-list {
