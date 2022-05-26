@@ -8,3 +8,9 @@ h1 {
     font-weight: 600;
     color: rgb(45, 106, 197);
 }
+
+.recipe-list {
+    font-size: 25px;
+    list-style-type: circle;
+    line-height: 150%;
+}
